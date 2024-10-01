@@ -1,2 +1,1 @@
-# week6-web
-expense tracking application
+# may-2024-week-6
